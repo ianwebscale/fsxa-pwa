@@ -1,3 +1,10 @@
+# [3.4.0](https://github.com/ianwebscale/fsxa-pwa/compare/v3.3.0...v3.4.0) (2022-08-17)
+
+
+### Features
+
+* **dependencies:** update to latest fsxa stack version ([#95](https://github.com/ianwebscale/fsxa-pwa/issues/95)) ([71ac12a](https://github.com/ianwebscale/fsxa-pwa/commit/71ac12a1795e757156e7823a31f72a16ab77d2e2))
+
 <<<<<<< HEAD
 # [3.3.0](https://github.com/ianwebscale/fsxa-pwa/compare/v3.2.2...v3.3.0) (2022-08-02)
 
