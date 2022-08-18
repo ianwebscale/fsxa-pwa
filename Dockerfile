@@ -27,5 +27,5 @@ ENV NUXT_PORT=3000
 ENV FSXA_MODE=release
 ENV NODE_ENV=production
 ENTRYPOINT ["dumb-init", "--"]
-CMD [ "node", "--max-old-space-size=200", "/usr/src/nuxt-app/node_modules/.bin/nuxt-star" ]
+CMD [ "node", "--max-old-space-size=200", "/usr/src/nuxt-app/node_modules/.bin/nuxt-start" ]
 
