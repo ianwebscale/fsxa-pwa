@@ -5,6 +5,7 @@ in the context of the FirstSpirit Experience Accelerator.
 
 NEW COMMIT AND TAG
 another one
+trigger
 
 == About the FSXA
 
