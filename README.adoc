@@ -1,4 +1,5 @@
 = FSXA-PWA
+trigger
 
 The FSXA-PWA is an example project and can be used as basis for developing your own PWA
 in the context of the FirstSpirit Experience Accelerator.
