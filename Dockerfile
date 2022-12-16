@@ -1,4 +1,4 @@
-FROM node:14
+FROM 875988342918.dkr.ecr.us-east-1.amazonaws.com/webscale-node:14.17.1-alpine3.13 AS build
 WORKDIR /usr/src/app
 COPY package*.json app.js ./
 RUN npm install
